@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+bin/
+target/
+*.jar
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.log
